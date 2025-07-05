@@ -51,4 +51,7 @@ This project was created as part of an academic exercise during the certificatio
 IBM Cloud services to demonstrate real-world applications of Natural Language Processing in customer experience analysis.
 
 ---
+## 📎 License
+
+This project is licensed under the [MIT License](LICENSE).
 
